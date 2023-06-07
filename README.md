@@ -19,7 +19,7 @@ Termux-YTD2.0 is a Upgraded version of Termux-YTD, Since Youtube-dl really slow 
 ### Me:
 Author👨‍💻: https://github.com/anukoushal <br>
 
-Website🌎: anuragkoushal.blogspot.com/?m=1) <br>
+Website🌎: anuragkoushal.blogspot.com <br>
 
 Instagram : https://www.instagram.com/pridedesi66/ <br>
 <br>
