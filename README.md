@@ -17,11 +17,11 @@ Termux-YTD2.0 is a Upgraded version of Termux-YTD, Since Youtube-dl really slow 
 </p>
 
 ### Me:
-Author👨‍💻: https://github.com/khansaad1275 <br>
+Author👨‍💻: https://github.com/anukoushal <br>
 
-Website🌎: www.Learntermux.tech <br>
+Website🌎: www.jio.com <br>
 
-Instagram : https://www.instagram.com/skhan_official/ <br>
+Instagram : https://www.instagram.com/pridedesi66/ <br>
 <br>
 <br>
 
