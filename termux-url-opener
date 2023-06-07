@@ -1,8 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 # TERMUX-YTD 2.0
-# BY KHAN SAAD
-# GITHUB.COM/KHANSAAD1275
+# BY ANU
+# GITHUB.COM/ANUKOUSHAL
 
 # SETTINGS THAT YOU CAN CHANGE-----
 
@@ -27,9 +27,9 @@ echo -e "\e[031m" "     █────▀────█       Check out my Git
 echo -e "\e[031m" "     █────▀────█       For More info...   "
 echo -e "\e[036m" "╔════════════════════════════════════════╗"                                                                          
 echo -e "\e[032m" "║ ♚ Project Name : 🆃🅴🆁🅼🆄🆇-🆈🆃🅳 2.0™        ║"
-echo -e "\e[032m" "║ ♚ Author : KhanSaad1275                ║"
-echo -e "\e[032m" "║ ♚ Github : g̲i̲t̲h̲u̲b̲.̲c̲o̲m̲/̲k̲h̲a̲n̲s̲a̲a̲d̲1̲2̲7̲5̲/̲    ║"
-echo -e "\e[032m" "║ ♚ Website : www.LearnTermux.tech       ║"
+echo -e "\e[032m" "║ ♚ Author : anu koushal                 ║"
+echo -e "\e[032m" "║ ♚ Github : g̲i̲t̲h̲u̲b̲.̲c̲o̲m̲/̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲̲anukoushal/    ║"
+echo -e "\e[032m" "║ ♚ Website : www.jio.com       ║"
 echo -e "\e[036m" "╠════════════════════════════════════════╝"
 echo -e "\e[036m" "╠═▶ [𝗦𝗲𝗹𝗲𝗰𝘁 𝗔 𝗙𝗼𝗿𝗺𝗮𝘁]  ➳"
 echo -e "\e[032m" "╠═▶ 1. Music Mp3♫"
